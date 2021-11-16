@@ -1,4 +1,25 @@
 {
+<<<<<<< HEAD
+    "name": "holi-colors",
+    "displayName": "holi-colors",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "holi-colors",
+                "uiTheme": "vs-dark",
+                "path": "./themes/holi-colors-color-theme.json"
+            }
+        ]
+    }
+=======
   "name": "vscode-colortheme-holi",
   "displayName": "Colors of Holi",
   "description": "Theme Colors of Holi",
@@ -32,4 +53,5 @@
     "url": "https://github.com/manthanwar/vscode-colorTheme-holi/issues"
   },
   "homepage": "https://github.com/manthanwar/vscode-colorTheme-holi#readme"
+>>>>>>> a7edcffc728902fdf8d8c23e7e6bfd40b9610e42
 }
