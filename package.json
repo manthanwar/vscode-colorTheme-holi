@@ -1,0 +1,35 @@
+{
+  "name": "vscode-colortheme-holi",
+  "displayName": "Colors of Holi",
+  "description": "Theme Colors of Holi",
+  "author": {
+    "name": "Amit M. Manthanwar",
+    "email": "manthanwar@hotmail.com",
+    "url": "https://manthanwar.github.io/"
+  },
+  "publisher": "manthanwar",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.62.0"
+  },
+  "icon": "media/png/PngItem_158448.png",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manthanwar/vscode-colorTheme-holi.git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [{
+      "label": "holi colors",
+      "uiTheme": "vs-dark",
+      "path": "./themes/holi-color-theme.json"
+    }]
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manthanwar/vscode-colorTheme-holi/issues"
+  },
+  "homepage": "https://github.com/manthanwar/vscode-colorTheme-holi#readme"
+}
